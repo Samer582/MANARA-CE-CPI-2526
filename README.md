@@ -2,7 +2,7 @@
 
 ## 📘 Course Overview
 
-This repository contains C++ programming assignments designed for CyberSecurity Engineers .
+This repository contains C++ programming assignments designed for Civil Engineers .
 
 
 ---
